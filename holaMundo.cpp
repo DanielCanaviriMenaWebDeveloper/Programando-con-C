@@ -1,8 +1,13 @@
 #include<stdio.h>
 
-int main(){
+/*
+	stdio.h : Standard Input Output Header
+	\n : Permite salto de línea 
+*/
+
+int main(){ //Función Principal
 	
-	printf("Hola Mundo");
+	printf("Hola Mundo\n");
 	
 	
 	return 0;
