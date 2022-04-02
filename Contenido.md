@@ -10,3 +10,6 @@
 10. Asignación Dinámica de Memoria
 11. Cadenas
 12. Entradas y Salidas por Archivos
+
+Tipo de Datos 
+http://codigoprogramacion.com/cursos/tutoriales-c/variables-y-tipos-de-datos-en-c.html#.YkYti37MK00 
