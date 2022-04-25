@@ -10,7 +10,6 @@
 */
 
 #include<stdio.h>
-//#include<stdlib.h>
 
 int main(){
 	
@@ -26,7 +25,6 @@ int main(){
 	
 	switch(opcion){
 		case 1: printf("Digite un numero: ");
-				//fflush(stdin);
 				scanf("%i", &numero);
 				cubo = numero * numero * numero;
 				printf("El cubo del numero es : %.2i", cubo);
