@@ -10,6 +10,8 @@
 		}while(condicion)
 */
 
+// Mostrar los 10 primeros numeros
+
 #include<stdio.h>
 
 int main(){
