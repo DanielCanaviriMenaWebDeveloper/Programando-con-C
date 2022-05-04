@@ -1,5 +1,5 @@
 /*
-	Repetición: El bucle do...while
+	Repetición: El bucle do-while (Hacer mientras)
 	
 	Sintaxis:
 	
@@ -21,7 +21,7 @@ int main(){
 	do {
 		printf("%i.\n", i);
 		i++;
-	}while(i<=10);
+	}while(i<=10); // Mientras se cumpla la condición la iteración se repite
 	
 	return 0;
 }
