@@ -13,3 +13,7 @@
 
 Tipo de Datos 
 http://codigoprogramacion.com/cursos/tutoriales-c/variables-y-tipos-de-datos-en-c.html#.YkYti37MK00 
+
+
+
+fflush(stdin);  // Borrado de Cache
