@@ -7,6 +7,9 @@
 	fmod(x,y)  -> Calcula el resto de la division de x/y.
 	pow(x,y)   -> Calcula x elevado a la potencia y.
 	sqrt(x)    -> Devuelve la raiz cuadrada de x.
+	
+	Para el uso de estas funciones no es necesario importar la libreria 
+	#include<math.h>, en si es necesario para Funciones Trigonometricas.
 */
 
 #include<stdio.h>
