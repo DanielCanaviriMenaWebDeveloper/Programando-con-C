@@ -1,7 +1,6 @@
 /*
 	Arrays y Arreglos Unidimensionales
-	
-	- Arrays flotantes            
+	           
 	- Arrays de caracter          <=======
 	- Arrays de String o Palabras
 
