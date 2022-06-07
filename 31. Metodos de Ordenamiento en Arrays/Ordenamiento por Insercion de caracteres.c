@@ -1,12 +1,12 @@
 /*
-	Ordenamiento por Inserción
+	Ordenamiento por Inserción de caracteres
 */
 
 #include<stdio.h>
 #include<conio.h>
 
 int main(){
-	int a[5] = {3, 1, 4, 2, 5};
+	char a[5] = {2, 1, 2, 1, 3};
 	int i, pos, aux;
 	
 	for(i=0;i<5;i++){
@@ -21,12 +21,12 @@ int main(){
 	
 	printf("Ascendente\n");
 	for(i=0;i<5;i++){
-		printf("%i ", a[i]);
+		printf("%c ", a[i]);
 	}
 	
 	printf("\nDescendente\n");
 	for(i=4;i>=0;i--){
-		printf("%i ", a[i]);
+		printf("%c ", a[i]);
 	}
 	
 	getch();
